@@ -4,10 +4,10 @@
 Project and README file were created 3.31.2021
 
 ### Project Title
-Bike Share
+Bike Share - Dan's Version
 
 ### Description
-Purpose of this project is provide statistics (frequent times of travel, most popular stations and trip, trip duration, user stats, and gender stats) in one of three cities Chicago, New York City, and Washington by month and weekday
+Purpose of this project is provide statistics: frequent times of travel, most popular stations and trip, trip duration, user stats, and gender stats across one of three cities Chicago, New York City, and Washington by month and weekday
 
 ### Files used
 bikeshare.py
